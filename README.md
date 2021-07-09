@@ -1,9 +1,9 @@
 # DiscordStresser
-A discord bot which can stress ip addresses with stresser api.
+A discord bot which can stress ip addresses with stresser api. <br>
 This repository is shared for educational purposes only, use for your own purposes.
 
 # Usage
-Download python 3. <br>
+Download and install python 3. <br>
 Run install_modules.bat. <br>
 Edit token to your bot's token. <br>
 Add your discord user ID to owners. <br>
